@@ -693,7 +693,7 @@ header nav a:visited {
 }
 
 
-.about_img img {
+#about img {
     width: 100%;
     border: 20px solid #ffd2eb;
 }
