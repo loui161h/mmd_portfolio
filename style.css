@@ -19,7 +19,7 @@ body {
 
 img {
     width: 100%;
-    /*    border: 20px solid #ffdce2;*/
+    border: 20px solid #ffdce2;
 }
 
 
@@ -695,7 +695,6 @@ header nav a:visited {
 
 /*.col_left img {
     width: 100%;
-    border: 20px solid #ffd2eb;
 }*/
 
 #about ul {
