@@ -320,6 +320,34 @@ header nav a:visited {
 
 /* ANIMATION slut  */
 
+/* SEX OG SAMFUND  */
+
+#sexogsamfund .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4vw;
+    margin: 4vw;
+    background-color: white;
+    opacity: 80%;
+    margin-bottom: 8vw;
+}
+
+#sexogsamfund .col {
+    flex-grow: 1;
+    flex-basis: 500px;
+
+}
+
+#animation_img img {
+    width: 80%;
+    padding: 0vw;
+    margin: 4vw;
+    margin-left: 6vw;
+    border: 20px solid #ffdce2;
+}
+
+/* SEX OG SAMFUND slut  */
+
 /* CONTENT  */
 #content .sectionwrapper {
     display: flex;
