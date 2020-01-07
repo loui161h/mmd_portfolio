@@ -11,7 +11,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: white;
-    background: url(baggrund/splash4.png);
+    background: url(baggrund/background.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Raleway', sans-serif;
@@ -144,8 +144,9 @@ li {
 
 header {
     width: 100vw;
-    background-color: white;
-    opacity: 80%;
+    /*background-color: white;*/
+    background-image: url(baggrund/background.png);
+    opacity: 85%;
 }
 
 header nav {
@@ -557,13 +558,16 @@ footer {
         display: inline-block;
     }
 
+
     header li {
         display: inline-block;
 
     }
 
     header nav {
-        padding: 0.2rem;
+        padding: 0.1rem;
+        background-color: white;
+        opacity: 88%;
     }
 
 
@@ -571,8 +575,8 @@ footer {
         background-color: transparent;
         text-decoration: none;
         color: #817f7f;
-    }*/
-
+    }
+*/
     header a {
         height: 20px;
     }
