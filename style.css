@@ -11,7 +11,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: white;
-    background: url(baggrund/background.png);
+    background: url(background.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Raleway', sans-serif;
@@ -145,7 +145,7 @@ li {
 header {
     width: 100vw;
     /*background-color: white;*/
-    background-image: url(baggrund/background.png);
+    background-image: url(background.png);
     opacity: 85%;
 }
 
