@@ -179,10 +179,11 @@ nav a:hover {
     background-color: #ffd2eb;
 }
 
+/*
 header nav a:visited {
     color: black;
-
 }
+*/
 
 .hidden {
     transform: translateX(-100%);
@@ -203,7 +204,7 @@ header nav a:visited {
 #menu {
     position: relative;
     width: 100vw;
-    background-color: white;
+    /*   background-color: white;*/
 }
 
 
@@ -558,21 +559,19 @@ footer {
 
     header li {
         display: inline-block;
-        letter-spacing: 5px;
-        color: #817f7f;
 
     }
 
     header nav {
-        padding: 0.1rem;
+        padding: 0.2rem;
     }
 
 
-    header nav li {
+    /* header nav li {
         background-color: transparent;
         text-decoration: none;
         color: #817f7f;
-    }
+    }*/
 
     header a {
         height: 20px;
