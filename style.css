@@ -485,7 +485,7 @@ header nav a:visited {
 
 .col_right {
     flex-grow: 1;
-    flex-basis: 600px;
+    flex-basis: 500px;
     padding: 4vw;
     margin: 4vw;
     margin-top: 2vw;
@@ -500,12 +500,17 @@ header nav a:visited {
 
 .col_left {
     display: flex;
-    flex-direction: row;
     flex-grow: 1;
     flex-basis: 500px;
-    padding: 1vw;
-    margin: 3vw;
+    padding: 4vw;
+    margin: 4vw;
     justify-content: center;
+    margin-bottom: 8vw;
+}
+
+#about img {
+    width: 100%;
+    height: auto;
 }
 
 
